@@ -10,15 +10,15 @@
   },
   "dependencies": {
     "@magister_zito/vue3-styled-components": "^2.0.0",
-    "@vueuse/core": "^10.7.0",
-    "@vueuse/router": "^10.7.0",
-    "vue": "^3.3.13",
-    "vue-router": "^4.2.5"
+    "@vueuse/core": "^10.9.0",
+    "@vueuse/router": "^10.9.0",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.0",
-    "typescript": "^5.3.3",
-    "vite": "^5.0.10",
-    "vue-tsc": "^2.0.0"
+    "@vitejs/plugin-vue": "^5.0.4",
+    "typescript": "^5.4.3",
+    "vite": "^5.2.3",
+    "vue-tsc": "^2.0.7"
   }
 }
